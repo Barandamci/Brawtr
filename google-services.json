@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531426380270",
+    "project_id": "braw-te",
+    "storage_bucket": "braw-te.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531426380270:android:0c5fd4598fe2ee299fa6ff",
+        "android_client_info": {
+          "package_name": "Com.braw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCylUIn89c7Xkev3tbBSncFGqNwPchb3bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
