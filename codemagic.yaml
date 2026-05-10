@@ -2,8 +2,6 @@ workflows:
   react-native-android:
     name: Android Build
     max_build_duration: 60
-    environment:
-      node: 20.x
     scripts:
       - name: Install dependencies
         script: npm install
